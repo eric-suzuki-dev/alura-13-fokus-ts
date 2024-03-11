@@ -82,3 +82,4 @@ const atualizarUI = () => {
         ulTarefas === null || ulTarefas === void 0 ? void 0 : ulTarefas.appendChild(li);
     });
 };
+atualizarUI();
